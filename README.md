@@ -1,2 +1,2 @@
 # FIFA19-Classification-and-Regression-tasks
-Predicting overall rating of a player and classifying player based on position.
+Predicting overall rating and classifying based on position of over 18,000 football players.
